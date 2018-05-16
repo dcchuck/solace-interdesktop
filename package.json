@@ -1,0 +1,12 @@
+{
+  "name": "solace-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dcchuck <chuck.danielsson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.3",
+    "openfin-launcher": "^1.4.2"
+  }
+}

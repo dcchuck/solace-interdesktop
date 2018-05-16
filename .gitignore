@@ -1,0 +1,7 @@
+solace-samples-javascript
+node_modules
+.tern-project
+solclientjs-10.0.1
+public/js/solclient-debug.js
+public/js/sessionInfo.js
+.tern-port
